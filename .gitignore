@@ -1,0 +1,19 @@
+# custom files
+# custom/
+libevent
+openssl
+zlib
+
+# temp files directories
+.vs
+x64
+Debug
+bin
+
+# cache/
+# log/
+# *.swp
+# .DS_Store
+
+# editor configs
+.vscode
